@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on josh adams</title>
+    <link>https://ja.id.au/posts/</link>
+    <description>Recent content in Posts on josh adams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Mar 2022 21:10:27 +1000</lastBuildDate>
+    
+	<atom:link href="https://ja.id.au/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>My Holden HZ Wagon</title>
+      <link>https://ja.id.au/my-holden-hz-wagon/</link>
+      <pubDate>Tue, 01 Mar 2022 21:10:27 +1000</pubDate>
+      
+      <guid>https://ja.id.au/my-holden-hz-wagon/</guid>
+      <description>&lt;p&gt;Sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#my-1977-holden-hz-wagon&#34;&gt;My HZ Wagon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#holden-202-red-engine-rebuild&#34;&gt;Engine Rebuild&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#custom-gauges-fuel-and-temp&#34;&gt;Custom Arduino gauges&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-1977-holden-hz-wagon&#34;&gt;My 1977 Holden HZ Wagon&lt;/h1&gt;
+&lt;h2 id=&#34;specs&#34;&gt;Specs:&lt;/h2&gt;
+&lt;p&gt;Engine: 202 Red Motor (Matching numbers 😏)
+Transmission: Trimatic (Column Shift)
+Differential: Fine spline banjo diff.&lt;/p&gt;
+&lt;h3 id=&#34;completed-works&#34;&gt;Completed Works&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Seats have been freshly reupholsters&lt;/li&gt;
+&lt;li&gt;Minor body work repairs, vehicle previously was T-boned in the passenger rear quarter.&lt;/li&gt;
+&lt;li&gt;HEI Dizzy has been fitted from Blue/Black 202, with appropriate coil.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ja.id.au/post/custom-gauges&#34;&gt;&amp;ldquo;Custom” Temp and Fuel Gauges&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;todo&#34;&gt;Todo:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Engine has weak compression on 2 cylinders (1 and 2). Another engine is currently being built.&lt;/li&gt;
+&lt;li&gt;Rust in lower sills need cutting out and repairing.&lt;/li&gt;
+&lt;li&gt;Rust in the roof needs addressing.&lt;/li&gt;
+&lt;li&gt;Door cards are “rotting” need to replace those. I want to replace the the door cards and rear cargo panels with stamped aluminium.&lt;/li&gt;
+&lt;li&gt;Run new Fuel/Brake lines, custom made full steel pipes. Will have to add distribution block and fuel pressure regulator to accommodate the triple SUs.&lt;/li&gt;
+&lt;li&gt;Revisit drivers side passenger footwell panel.&lt;/li&gt;
+&lt;li&gt;Stick down carpet better with contact adhesive.&lt;/li&gt;
+&lt;li&gt;Fix wiper motor so that it actually has 2 speeds. (Slow and Extra Slow)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;holden-202-red-engine-rebuild&#34;&gt;Holden 202 Red Engine Rebuild&lt;/h1&gt;
+&lt;p&gt;My current engine in my &lt;a href=&#34;https://ja.id.au/posts/my-holden-hz-wagon&#34;&gt;wagon&lt;/a&gt; is unfortunately running quite poorly. Oil weeps for most seals (rather common in these engines, especially when they’re 40+ yrs old) and also has low compression on the first two cylinders. I use this vehicle as my daily driver (when it behaves) so ideally I would prefer to keep it on the road while I prep another engine however the car has decided otherwise.&lt;/p&gt;
+&lt;h3 id=&#34;current-list-of-issues-with-the-current-motortrans&#34;&gt;Current List of Issues with the current motor/trans:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Low compression on cylinders 1 &amp;amp; 2. This could either be a few things.
+Leaky head gasket. However oil drains fine and isn’t milky
+Valves in the head aren’t seating properly preventing compression
+Piston rings aren’t doing what they’re sposed to. (This is my guess as C1 gets a bit oiley at times.&lt;/li&gt;
+&lt;li&gt;Starter Motor just isn’t having a great time. I’ve know this has been an issue for a while but the excess amp draw kills my battery rather frequently.&lt;/li&gt;
+&lt;li&gt;Radiator has a mad weep, and the belt driven fan doesn’t cut the mustard when stuck in traffic. Temps easily in the high 90s&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;solution-build-up-a-new-engine--trans&#34;&gt;Solution? Build up a new Engine + Trans!&lt;/h3&gt;
+&lt;p&gt;I bought a running donor motor, another red 202 of similar era, and it also came with 2 addition trimatics and a handful of goodies like alternators, dizzies, carbies, oil pumps etc etc. To give you a money reference for this it all up set me back $1500. Which for mid 2021 Brisbane prices wasn’t half bad. This engine was also a bit sad and in need of a reco but that’s exactly what I wanted to do anyway. Engine was 30tho over on the bore and had a “perform cam” a 35666 from crow cams.&lt;/p&gt;
+&lt;p&gt;I really wanted to pick me up a Yella Terra head, these were performance heads made my Yella Terra by modifying bog stock cast heads off normal motors. Seem to be rather rare these days for I6s. I managed to snag a half decent one but it was out in Blackbutt which was solid 2-3 hour drive each way from where I live. Picked it up for $500 and unfortunately after picking it up realised it was a 161 head from an earlier model. No sweat though, as it’ll still bolt up fine just needed different pushrods to accommodate.&lt;/p&gt;
+&lt;img src=&#34;https://ja.id.au/images/202-compression-ratio_hu91e66f8c2c77126fbea2a7cb4dc4c931_37349_300x0_resize_box_3.png&#34;&gt;
+&lt;p&gt;When spec’ing this engine up I was concerned that the compression ratio would be too high, which to be honest it definitely is but I should still be able to get away with 98OCT at the bowser, more than likely moving this car from a daily to a weekender.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;custom-gauges-fuel-and-temp&#34;&gt;Custom gauges Fuel and Temp&lt;/h1&gt;
+&lt;p&gt;First I scoured the internet to try and find specs for the Fuel and Temp senders
+Fuel is 10 – 70ohms (Full – Empty)
+Temp is 10 – 70 ohms (High – Low)&lt;/p&gt;
+&lt;p&gt;I used a multimeter and the engine temperature probe to measure the temp/resistance of water as it cooled.&lt;/p&gt;
+&lt;p&gt;I setup the fuel gauge as a linear change in resistance, unlike the variable relationship between temp/resistance. This is a pure guess as I haven’t done any exact measurements of the fuel sender, and couldn’t find any online. However I haven’t be stranded without fuel yet so it can’t be too far out.&lt;/p&gt;
+&lt;p&gt;I originally intended for this to be a temporary board that was just for testing purposes however it has been inside my car running fairly happy without hiccups for close to 6 months now.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ja.id.au/images/gauge1_hu96ed260987f6c111cfc339a03c57ba8e_45145_300x0_resize_q75_box.JPG&#34;&gt; &lt;img src=&#34;https://ja.id.au/images/gauge2_huee20aadd0cf7c1fc5fcdcbcb6d36fc7c_39997_300x0_resize_q75_box.JPG&#34;&gt;&lt;img src=&#34;https://ja.id.au/images/gauge3_hu5b4973be9229af762fe9983ea0b0bc4a_32467_300x0_resize_q75_box.JPG&#34;&gt;&lt;img src=&#34;https://ja.id.au/images/gauge6_hu296f9fcf89a6017126266160c4cfad66_28876_300x0_resize_q75_box.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#my-1977-holden-hz-wagon&#34;&gt;Jump to the top!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>

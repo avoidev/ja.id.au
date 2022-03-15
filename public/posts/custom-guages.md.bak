@@ -1,0 +1,18 @@
+---
+title: "Custom Fuel and Temp Guages"
+date: 2022-03-01T21:19:12+10:00
+draft: true
+weight: 2
+---
+
+First I scoured the internet to try and find specs for the Fuel and Temp senders
+Fuel is 10 – 70ohms (Full – Empty)
+Temp is 10 – 70 ohms (High – Low)
+
+I used a multimeter and the engine temperature probe to measure the temp/resistance of water as it cooled.
+
+I setup the fuel gauge as a linear change in resistance, unlike the variable relationship between temp/resistance. This is a pure guess as I haven’t done any exact measurements of the fuel sender, and couldn’t find any online. However I haven’t be stranded without fuel yet so it can’t be too far out.
+
+I originally intended for this to be a temporary board that was just for testing purposes however it has been inside my car running fairly happy without hiccups for close to 6 months now.
+
+{{< gallery match="images/*" >}}

@@ -1,0 +1,45 @@
+baseURL = "https://ja.id.au"
+title = "josh adams"
+theme = ["etch", "hugo-shortcode-gallery"]
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "dump of anything that comes out of my brain thats worth recording"
+  copyright = "Copyright © 2022 josh adams"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+	
+  [[menu.main]]
+    identifier = "now"
+    name = "now"
+    title = "now"
+    url = "/now"
+    weight = 12
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 100
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
