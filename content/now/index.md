@@ -7,7 +7,7 @@ draft: false
 Things that are interesting me now;
 
 + Elden Ring
-+ Engine building
++ Engine building [here](../my-holden-hz-wagon#holden-202-red-engine-rebuild)
 + Coffee making (using my Moka)
 + Learning Hugo
 

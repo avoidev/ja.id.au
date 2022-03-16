@@ -42,4 +42,4 @@ pygmentsUseClasses = true
   unsafe = true
 
   [markup.tableOfContents]
-    ordered = true
+    ordered = false

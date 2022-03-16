@@ -4,14 +4,6 @@ date: 2022-03-01T21:10:27+10:00
 draft: false
 ---
 
-Sections:
-
-+ [My HZ Wagon](#my-1977-holden-hz-wagon)
-+ [Engine Rebuild](#holden-202-red-engine-rebuild)
-+ [Custom Arduino gauges](#custom-gauges-fuel-and-temp)
-
-# My 1977 Holden HZ Wagon 
-
 ## Specs:
 Engine: 202 Red Motor (Matching numbers 😏)
 Transmission: Trimatic (Column Shift)
@@ -37,7 +29,7 @@ Differential: Fine spline banjo diff.
 -------------------------------------------------------------------
 
 
-# Holden 202 Red Engine Rebuild
+## Holden 202 Red Engine Rebuild
 
 My current engine in my [wagon](/posts/my-holden-hz-wagon) is unfortunately running quite poorly. Oil weeps for most seals (rather common in these engines, especially when they’re 40+ yrs old) and also has low compression on the first two cylinders. I use this vehicle as my daily driver (when it behaves) so ideally I would prefer to keep it on the road while I prep another engine however the car has decided otherwise.
 
@@ -57,13 +49,13 @@ I really wanted to pick me up a Yella Terra head, these were performance heads m
 
 {{< img src="images/202-compression-ratio.png" >}}
 
-When spec’ing this engine up I was concerned that the compression ratio would be too high, which to be honest it definitely is but I should still be able to get away with 98OCT at the bowser, more than likely moving this car from a daily to a weekender.
+When spec'ing this engine up I was concerned that the compression ratio would be too high, which to be honest it definitely is but I should still be able to get away with 98OCT at the bowser, more than likely moving this car from a daily to a weekender.
 
 
 -------------------------------------------------------------------
 
 
-# Custom gauges Fuel and Temp
+## Custom gauges Fuel and Temp
 
 First I scoured the internet to try and find specs for the Fuel and Temp senders
 Fuel is 10 – 70ohms (Full – Empty)
@@ -78,4 +70,4 @@ I originally intended for this to be a temporary board that was just for testing
 {{< img src="images/gauge1.jpg" >}} {{< img src="images/gauge2.jpg" >}}{{< img src="images/gauge3.jpg" >}}{{< img src="images/gauge6.jpg" >}}
 
 
-[Jump to the top!](#my-1977-holden-hz-wagon)
+[Jump to the top!](##Specs:)

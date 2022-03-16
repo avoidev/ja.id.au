@@ -6,9 +6,34 @@
     <description>Recent content in Posts on josh adams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Mar 2022 21:10:27 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 10:51:20 +1000</lastBuildDate>
     
 	<atom:link href="https://ja.id.au/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Coffee</title>
+      <link>https://ja.id.au/coffee/</link>
+      <pubDate>Wed, 16 Mar 2022 10:51:20 +1000</pubDate>
+      
+      <guid>https://ja.id.au/coffee/</guid>
+      <description>&lt;h1 id=&#34;coffee-&#34;&gt;Coffee ☕&lt;/h1&gt;
+&lt;p&gt;Coffee is 100% something I cannot live without, I have a few specific coffee I like but to be honest there isn&amp;rsquo;t much I wouldn&amp;rsquo;t consume.&lt;/p&gt;
+&lt;p&gt;My favourite method at the moment is strong black coffee from my Moka pot.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a 4 cup version I believe but I got it 2nd hand off eBay so I can&amp;rsquo;t be 100% sure. When I was originally looking for a pot I saw the ubiquitous aluminium versions, however I was always told that drinking from aluminium was always a heath hazard. I know, I know, Italians have been drinking out of these things for eons but this stainless steel ones I ended up getting was just the &amp;lsquo;safer&amp;rsquo; play.&lt;/p&gt;
+&lt;p&gt;Something I have wanted to try is pour over style coffee, which kind of seems a bit intimidating and very technique heavy. The first time I remembers seeing it is in the anime &amp;ldquo;Tokyo Ghoul&amp;rdquo;. I&amp;rsquo;ve also seen it on a few YouTube videos such as ones from Binging with Babish, and James Hoffman.&lt;/p&gt;
+&lt;p&gt;Probably another coffee method I&amp;rsquo;ve been exposed to from anime is the existence of canned coffees (Thanks Japan), I&amp;rsquo;ve tried a few from different Asian food importers and I haven&amp;rsquo;t really found any I like. Some are just plain ol&amp;rsquo; black coffee in a can, some are some exotic blends, and other are a vanilla late in a can. All great! However I certainly seem to be leaning towards just long black in a can, Boss is a brand easily accessible in most supermarkets here in Australia.&lt;/p&gt;
+&lt;h1 id=&#34;beans&#34;&gt;Beans&lt;/h1&gt;
+&lt;p&gt;While I haven&amp;rsquo;t experienced the greatest spread of beans, I do have a few ones that stood out to me. One that I have found to be super delish is roast that my Girlfriend got me from a coffee shop in the city &amp;ldquo;Death before Decaf&amp;rdquo; which might I add I think is a dope name for a coffee shop. I haven&amp;rsquo;t been there personally but the shop looks awesome from the pictures on google, and the custard donuts they sell are top 5 imo.&lt;/p&gt;
+&lt;p&gt;Others I&amp;rsquo;ve got are from just Coles/Woolworths and since I usually opt for a dark roast, they can&amp;rsquo;t really mess up the flavour all that much.&lt;/p&gt;
+&lt;p&gt;But as I&amp;rsquo;ve previously mentioned I want to get into trying pour over coffees, which would generally call for a lighter roast to help expose some more refined and delicate flavours.&lt;/p&gt;
+&lt;h1 id=&#34;current-equipment&#34;&gt;Current Equipment&lt;/h1&gt;
+&lt;p&gt;As previously mentioned my go to is a 4 cup Bialetti stainless steel moka pot. It&amp;rsquo;s a trooper and the replacement gaskets and metal filter only run me like $20, which considering I usually only have to replace it bi-annually is pretty damn good.&lt;/p&gt;
+&lt;p&gt;Grinder is just so super cheap eBay hand grinder, does the job but once it&amp;rsquo;s dead I&amp;rsquo;ll splash some more cash on something a bit fancier.&lt;/p&gt;
+&lt;p&gt;Beans are usually stored in re-used Moccona jars. They seem to seal well enough to prevent the coffee from going stale.&lt;/p&gt;
+</description>
+    </item>
     
     
     
@@ -22,14 +47,7 @@
       <pubDate>Tue, 01 Mar 2022 21:10:27 +1000</pubDate>
       
       <guid>https://ja.id.au/my-holden-hz-wagon/</guid>
-      <description>&lt;p&gt;Sections:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#my-1977-holden-hz-wagon&#34;&gt;My HZ Wagon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#holden-202-red-engine-rebuild&#34;&gt;Engine Rebuild&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#custom-gauges-fuel-and-temp&#34;&gt;Custom Arduino gauges&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;my-1977-holden-hz-wagon&#34;&gt;My 1977 Holden HZ Wagon&lt;/h1&gt;
-&lt;h2 id=&#34;specs&#34;&gt;Specs:&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;specs&#34;&gt;Specs:&lt;/h2&gt;
 &lt;p&gt;Engine: 202 Red Motor (Matching numbers 😏)
 Transmission: Trimatic (Column Shift)
 Differential: Fine spline banjo diff.&lt;/p&gt;
@@ -52,7 +70,7 @@ Differential: Fine spline banjo diff.&lt;/p&gt;
 &lt;li&gt;Fix wiper motor so that it actually has 2 speeds. (Slow and Extra Slow)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;holden-202-red-engine-rebuild&#34;&gt;Holden 202 Red Engine Rebuild&lt;/h1&gt;
+&lt;h2 id=&#34;holden-202-red-engine-rebuild&#34;&gt;Holden 202 Red Engine Rebuild&lt;/h2&gt;
 &lt;p&gt;My current engine in my &lt;a href=&#34;https://ja.id.au/posts/my-holden-hz-wagon&#34;&gt;wagon&lt;/a&gt; is unfortunately running quite poorly. Oil weeps for most seals (rather common in these engines, especially when they’re 40+ yrs old) and also has low compression on the first two cylinders. I use this vehicle as my daily driver (when it behaves) so ideally I would prefer to keep it on the road while I prep another engine however the car has decided otherwise.&lt;/p&gt;
 &lt;h3 id=&#34;current-list-of-issues-with-the-current-motortrans&#34;&gt;Current List of Issues with the current motor/trans:&lt;/h3&gt;
 &lt;ol&gt;
@@ -67,9 +85,9 @@ Piston rings aren’t doing what they’re sposed to. (This is my guess as C1 ge
 &lt;p&gt;I bought a running donor motor, another red 202 of similar era, and it also came with 2 addition trimatics and a handful of goodies like alternators, dizzies, carbies, oil pumps etc etc. To give you a money reference for this it all up set me back $1500. Which for mid 2021 Brisbane prices wasn’t half bad. This engine was also a bit sad and in need of a reco but that’s exactly what I wanted to do anyway. Engine was 30tho over on the bore and had a “perform cam” a 35666 from crow cams.&lt;/p&gt;
 &lt;p&gt;I really wanted to pick me up a Yella Terra head, these were performance heads made my Yella Terra by modifying bog stock cast heads off normal motors. Seem to be rather rare these days for I6s. I managed to snag a half decent one but it was out in Blackbutt which was solid 2-3 hour drive each way from where I live. Picked it up for $500 and unfortunately after picking it up realised it was a 161 head from an earlier model. No sweat though, as it’ll still bolt up fine just needed different pushrods to accommodate.&lt;/p&gt;
 &lt;img src=&#34;https://ja.id.au/images/202-compression-ratio_hu91e66f8c2c77126fbea2a7cb4dc4c931_37349_300x0_resize_box_3.png&#34;&gt;
-&lt;p&gt;When spec’ing this engine up I was concerned that the compression ratio would be too high, which to be honest it definitely is but I should still be able to get away with 98OCT at the bowser, more than likely moving this car from a daily to a weekender.&lt;/p&gt;
+&lt;p&gt;When spec&amp;rsquo;ing this engine up I was concerned that the compression ratio would be too high, which to be honest it definitely is but I should still be able to get away with 98OCT at the bowser, more than likely moving this car from a daily to a weekender.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;custom-gauges-fuel-and-temp&#34;&gt;Custom gauges Fuel and Temp&lt;/h1&gt;
+&lt;h2 id=&#34;custom-gauges-fuel-and-temp&#34;&gt;Custom gauges Fuel and Temp&lt;/h2&gt;
 &lt;p&gt;First I scoured the internet to try and find specs for the Fuel and Temp senders
 Fuel is 10 – 70ohms (Full – Empty)
 Temp is 10 – 70 ohms (High – Low)&lt;/p&gt;
@@ -77,7 +95,7 @@ Temp is 10 – 70 ohms (High – Low)&lt;/p&gt;
 &lt;p&gt;I setup the fuel gauge as a linear change in resistance, unlike the variable relationship between temp/resistance. This is a pure guess as I haven’t done any exact measurements of the fuel sender, and couldn’t find any online. However I haven’t be stranded without fuel yet so it can’t be too far out.&lt;/p&gt;
 &lt;p&gt;I originally intended for this to be a temporary board that was just for testing purposes however it has been inside my car running fairly happy without hiccups for close to 6 months now.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://ja.id.au/images/gauge1_hu96ed260987f6c111cfc339a03c57ba8e_45145_300x0_resize_q75_box.JPG&#34;&gt; &lt;img src=&#34;https://ja.id.au/images/gauge2_huee20aadd0cf7c1fc5fcdcbcb6d36fc7c_39997_300x0_resize_q75_box.JPG&#34;&gt;&lt;img src=&#34;https://ja.id.au/images/gauge3_hu5b4973be9229af762fe9983ea0b0bc4a_32467_300x0_resize_q75_box.JPG&#34;&gt;&lt;img src=&#34;https://ja.id.au/images/gauge6_hu296f9fcf89a6017126266160c4cfad66_28876_300x0_resize_q75_box.JPG&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;#my-1977-holden-hz-wagon&#34;&gt;Jump to the top!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;##Specs:&#34;&gt;Jump to the top!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
