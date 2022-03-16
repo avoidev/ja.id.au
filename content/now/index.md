@@ -8,8 +8,8 @@ Things that are interesting me now;
 
 + Elden Ring
 + Engine building [here](../my-holden-hz-wagon#holden-202-red-engine-rebuild)
-+ Coffee making (using my Moka)
-+ Learning Hugo
++ Coffee making (using my Moka pot) [here] (../coffee)
++ Learning Hugo (this website)
 
 Inspired by https://nownownow.com/
 First seen https://arne.me/now/ 

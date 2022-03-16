@@ -7,9 +7,9 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "dump of anything that comes out of my brain thats worth recording"
-  copyright = "Copyright © 2022 josh adams"
-  dark = "auto"
+  description = "home of josh adams, not the jockey though."
+  copyright = "copyright © 2022 josh adams"
+  dark = "true"
   highlight = true
 
 [menu]
