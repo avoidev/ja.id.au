@@ -5,6 +5,7 @@ languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+enableGitInfo = true
 
 [params]
   description = "home of josh adams, not the jockey though."
@@ -41,5 +42,11 @@ pygmentsUseClasses = true
   # Allow HTML in Markdown
   unsafe = true
 
-  [markup.tableOfContents]
-    ordered = false
+[markup.tableOfContents]
+  ordered = false
+
+[Frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = ['lastmod', ':git', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
