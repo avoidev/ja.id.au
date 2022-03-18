@@ -1,22 +1,23 @@
 <li>
     <a href="{{ .Permalink }}">
         {{ .Title }}
-        <small><time>{{ .Date | time.Format (i18n "posts.date") }}</time>
+        <small><time>{{ .Date | time.Format (i18n "posts.date") }}</time> |
+            {{ .WordCount }} words |
+        
+            {{ if gt .ReadingTime 1 }}
+                {{ .Scratch.Set "timeUnit" "mins" }}
+            {{ else }}
+                {{ .Scratch.Set "timeUnit" "min" }}
+            {{ end }}
 
+            ~{{.ReadingTime}} {{ .Scratch.Get "timeUnit" }}
         </small>
     
-    </a>
+    
     <br>
     <small>
-    {{ .WordCount }} words |
-        
-    {{ if gt .ReadingTime 1 }}
-        {{ .Scratch.Set "timeUnit" "mins" }}
-    {{ else }}
-        {{ .Scratch.Set "timeUnit" "min" }}
-    {{ end }}
-
-    ~{{.ReadingTime}} {{ .Scratch.Get "timeUnit" }} |
+ 
 
     {{.Description}}</small>
+    </a>
 </li>
