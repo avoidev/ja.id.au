@@ -1,6 +1,6 @@
 baseURL = "https://ja.id.au"
 title = "josh adams"
-theme = ["etch"]
+theme = ["etch", "hugo-shortcode-gallery"]
 languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
@@ -27,6 +27,13 @@ enableGitInfo = true
     title = "now"
     url = "/now"
     weight = 12
+
+  [[menu.main]]
+    identifier = "Gallery"
+    name = "Gallery"
+    title = "Gallery"
+    url = "/gallery"
+    weight = 13
 
   [[menu.main]]
     identifier = "about"
