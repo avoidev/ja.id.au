@@ -11,6 +11,8 @@
     
     
     
+    
+    
     <item>
       <title>Coffee ☕</title>
       <link>https://ja.id.au/coffee/</link>
@@ -45,7 +47,28 @@
       <pubDate>Tue, 01 Mar 2022 21:10:27 +1000</pubDate>
       
       <guid>https://ja.id.au/my-holden-hz-wagon/</guid>
-      <description>&lt;h2 id=&#34;specs&#34;&gt;Specs:&lt;/h2&gt;
+      <description>&lt;aside id=&#34;toc&#34;&gt;
+    &lt;h4&gt;Table of Contents&lt;/h4&gt;
+    &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#specs&#34;&gt;Specs:&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#completed-works&#34;&gt;Completed Works&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#todo&#34;&gt;Todo:&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#holden-202-red-engine-rebuild&#34;&gt;Holden 202 Red Engine Rebuild&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#current-list-of-issues-with-the-current-motortrans&#34;&gt;Current List of Issues with the current motor/trans:&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#solution-build-up-a-new-engine--trans&#34;&gt;Solution? Build up a new Engine + Trans!&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#custom-gauges-fuel-and-temp&#34;&gt;Custom gauges Fuel and Temp&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/aside&gt;
+
+&lt;h2 id=&#34;specs&#34;&gt;Specs:&lt;/h2&gt;
 &lt;p&gt;Engine: 202 Red Motor (Matching numbers 😏)
 Transmission: Trimatic (Column Shift)
 Differential: Fine spline banjo diff.&lt;/p&gt;

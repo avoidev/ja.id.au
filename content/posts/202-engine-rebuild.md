@@ -5,6 +5,8 @@ draft: true
 weight: 3
 ---
 
+{{< toc >}}
+
 My current engine in my [wagon](/my-holden-hz-wagon) is unfortunately running quite poorly. Oil weeps for most seals (rather common in these engines, especially when they’re 40+ yrs old) and also has low compression on the first two cylinders. I use this vehicle as my daily driver (when it behaves) so ideally I would prefer to keep it on the road while I prep another engine however the car has decided otherwise.
 
 ### Current List of Issues with the current motor/trans:

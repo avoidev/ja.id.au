@@ -1,1 +1,4 @@
-content/gallery/images/
+*.jpg
+resources/_gen/images/gallery/*/*.json
+*.lock
+*.bak

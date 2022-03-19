@@ -5,6 +5,8 @@ draft: false
 description: A thread of all everything I do to my classic aussie car. 
 ---
 
+{{< toc >}}
+
 ## Specs:
 Engine: 202 Red Motor (Matching numbers 😏)
 Transmission: Trimatic (Column Shift)
