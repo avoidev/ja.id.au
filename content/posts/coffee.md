@@ -9,7 +9,7 @@ Coffee is 100% something I cannot live without, I have a few specific coffee I l
 
 My favourite method at the moment is strong black coffee from my Moka pot.
 
-It's a 4 cup version I believe but I got it 2nd hand off eBay so I can't be 100% sure. When I was originally looking for a pot I saw the ubiquitous aluminum versions, however I was always told that drinking from aluminum was always a heath hazard. I know, I know, Italians have been drinking out of these things for eons but this stainless steel ones I ended up getting was just the 'safer' play.
+It's a ~~4 cup version~~ 6 cup I believe but I got it 2nd hand off eBay so I can't be 100% sure. When I was originally looking for a pot I saw the ubiquitous aluminum versions, however I was always told that drinking from aluminium was always a heath hazard. I know, I know, Italians have been drinking out of these things for eons but this stainless steel ones I ended up getting was just the 'safer' play.
 
 Something I have wanted to try is pour over style coffee, which kind of seems a bit intimidating and very technique heavy. The first time I remembers seeing it is in the anime "Tokyo Ghoul" however I've also seen it on a few YouTube videos such as ones from Binging with Babish, and James Hoffman.
 
@@ -30,3 +30,9 @@ As previously mentioned my go to is a 4 cup Bialetti stainless steel moka pot. I
 Grinder is just so super cheap eBay hand grinder, does the job but once it's dead I'll splash some more cash on something a bit fancier.
 
 Beans are usually stored in re-used Moccona jars. They seem to seal well enough to prevent the coffee from going stale.
+
+# Equipment I want to get
+
+Without a doubt I'd like to get a pour over setup, I know there are lots of inexpensive kits but I'd like to buy quality gear as I very much subscribe to the "you get what you pay for" idea and if I can get something of quality second hand I'll definitely opt for that.
+
+Another brewer that has peaked by interest is vacuum/siphon brewers. These things can be absolutely breathtaking to watch, and there seem to be a couple of spins of it from different countries.
