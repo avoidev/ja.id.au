@@ -2,7 +2,7 @@
 title: "My Holden HZ Wagon 🚘"
 date: 2022-03-01T21:10:27+10:00
 draft: false
-description: A thread of all everything I do to my classic aussie car. 
+description: A thread of all everything I do to my classic Aussie car. 
 ---
 
 {{< toc >}}
@@ -18,20 +18,19 @@ Differential: Fine spline banjo diff.
 + HEI Dizzy has been fitted from Blue/Black 202, with appropriate coil.
 + ["Custom” Temp and Fuel Gauges](/post/custom-gauges)
 
-### Todo:
+### To-do:
 * Engine has weak compression on 2 cylinders (1 and 2). Another engine is currently being built.
 * Rust in lower sills need cutting out and repairing.
 * Rust in the roof needs addressing.
-* Door cards are “rotting” need to replace those. I want to replace the the door cards and rear cargo panels with stamped aluminum ones instead.
+* Door cards are “rotting” need to replace those. I want to replace the the door cards and rear cargo panels with stamped aluminium ones instead.
 * Run new Fuel/Brake lines, custom made full steel pipes. Will have to add distribution block and fuel pressure regulator to accommodate the triple SUs.
 * Revisit drivers side passenger footwell panel.
 * Stick down carpet better with contact adhesive.
 * Fix wiper motor so that it actually has 2 speeds. (Slow and Extra Slow)
 
+<br>
 
 -------------------------------------------------------------------
-
-
 ## Holden 202 Red Engine Rebuild
 
 My current engine in my [wagon](/posts/my-holden-hz-wagon) is unfortunately running quite poorly. Oil weeps for most seals (rather common in these engines, especially when they’re 40+ yrs old) and also has low compression on the first two cylinders. I use this vehicle as my daily driver (when it behaves) so ideally I would prefer to keep it on the road while I prep another engine however the car has decided otherwise.
@@ -54,10 +53,14 @@ I really wanted to pick me up a YellaTerra head, these were performance heads ma
 
 When spec'ing this engine up I was concerned that the compression ratio would be too high, which to be honest it definitely is but I should still be able to get away with 98OCT at the bowser, more than likely moving this car from a daily to a weekender.
 
+#### Engine Update 10/04/22
+So, the engine is finally back together and has been painted. With the help of my mate Liam, my Dad and youngest brother we removed the old engine from the wagon and begun putting the other Trimatic on the new donk, this one apparently has a "stage 2 kit" through it according to the previous owner, and has a slightly higher than factory stall range torque converter. 
+
+I'm actually starting to get pretty keen, but also exceptionally nervous. What if this engine doesn't start after all I'm no expert by any standard and I've never build a motor before. But I'm more of the wait and see kind of guy, so if it nukes it upon first start up then it is what it is.
+
+<br>
 
 -------------------------------------------------------------------
-
-
 ## Custom gauges Fuel and Temp
 
 First I scoured the internet to try and find specs for the Fuel and Temp senders
