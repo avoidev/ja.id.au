@@ -50,7 +50,9 @@ enableGitInfo = true
   unsafe = true
 
 [markup.tableOfContents]
-  ordered = false
+    endLevel = 5
+    ordered = false
+    startLevel = 1
 
 [Frontmatter]
   date = ['date', 'publishDate', 'lastmod']
