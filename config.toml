@@ -10,7 +10,7 @@ enableGitInfo = true
 [params]
   description = "home of josh adams, not the jockey though."
   copyright = "copyright © 2022 josh adams"
-  dark = "true"
+  dark = true
   highlight = true
 
 [menu]

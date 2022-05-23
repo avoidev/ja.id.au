@@ -22,7 +22,7 @@ Differential: Fine spline banjo diff.
 * Engine has weak compression on 2 cylinders (1 and 2). Another engine is currently being built.
 * Rust in lower sills need cutting out and repairing.
 * Rust in the roof needs addressing.
-* Door cards are “rotting” need to replace those. I want to replace the the door cards and rear cargo panels with stamped aluminium ones instead.
+* Door cards are “rotting” need to replace those. I want to replace the the door cards and rear cargo panels with stamped aluminum ones instead.
 * Run new Fuel/Brake lines, custom made full steel pipes. Will have to add distribution block and fuel pressure regulator to accommodate the triple SUs.
 * Revisit drivers side passenger footwell panel.
 * Stick down carpet better with contact adhesive.
@@ -66,6 +66,15 @@ The first being the mechanical fuel pump, the one I fitted was one that came wit
 The second probably was that my cylinder compression was all over the shop. The first cylinder was registering 0 PSI compression 😅 with all the others ranging from 30 to 110 PSI. I had a couple of ideas what would cause this, first was that I put the rings in wrong, second was that the adjustable rockers were set wrong and the third was that head/head gasket weren't sealing correctly.
 
 I dreaded to think that I'd have to pull the head/motor apart again so I went on the assumption that it was the rockers since this is the easiest part for me to fuck up.
+
+### Engine Update 15/05/22
+So, she runs.
+
+\<phew>
+
+I can actually worry about the rest of it now. The carby mix is enough for it to idle and move which is totally **AWESOME**. I'm actually stoked, I've noticed that the rear main seal seems to leak which is a bit depressing but this is only a first go.
+
+I went for a lap round the block which I and the car both survived, however there are a few new things to do. Only 2nd gear seems to work, reverse doesn't engage at all and neither does 1st and D. But hey, progress is progress.
 
 <br>
 

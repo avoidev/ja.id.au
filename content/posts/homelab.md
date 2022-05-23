@@ -5,7 +5,7 @@ draft: false
 description: Overall dump of knowledge about my current homelab setups.
 ---
 
-As I'm mentioned in other spots on this website, I'm an IT guy. Nothing too crazy, currently working a support job however I do like dabbling and actually engaging my brain from time to time. By HomeLab is one of these brain engaging activities I like doing.
+As I'm mentioned in other spots on this website, I'm an IT guy. Nothing too crazy, currently working a support job however I do like dabbling and actually engaging my brain from time to time. My HomeLab is one of these brain engaging activities I like doing.
 
 The run-down on this is pretty straight forward. I have two boxes running Proxmox, and a cheap $5 VPS from Vultr. Both Proxmox boxes have a VM running ubuntu server and a wireguard VPN, and current connect to the VPS as the main point of contact. However I understand this is a potential issue as if that VPS goes down for whatever reason I'll be stuck without VPN access.
 
