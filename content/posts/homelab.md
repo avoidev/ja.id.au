@@ -1,7 +1,8 @@
 ---
-title: "Homelab"
+title: "Homelab 💻"
 date: 2022-03-30T20:15:29+10:00
-draft: true
+draft: false
+description: Overall dump of knowledge about my current homelab setups.
 ---
 
 As I'm mentioned in other spots on this website, I'm an IT guy. Nothing too crazy, currently working a support job however I do like dabbling and actually engaging my brain from time to time. By HomeLab is one of these brain engaging activities I like doing.
@@ -15,3 +16,5 @@ No what do I actually use these for, nothing too spectacular both hosts run File
 Both hosts aren't particularly impressive however I do plan on boosting the storage capacity in the near future. The primary host is an i7-4770, 32GB RAM, 512 SSD and 8TB WD Red. The secondary host is an i5-4690, 16GB RAM, 256GB SSD and a 8TB WD Red.
 
 Ideally I'll upgrade these with another 2x8TB disk each and either use RAID 5 for some parity. However I've also toyed with the idea of dipping my toes into SnapRAID and UnionFS.
+
+Like most of these posts I'll update as I go along :)
